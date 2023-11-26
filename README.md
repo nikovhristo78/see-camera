@@ -3,9 +3,9 @@
 
 apt-get install python3
 
-apt-get install git
+apt-get install 
 
-git clone 
+git clone https://github.com/nikovhristo78/see-camera/blob/main/README.md
 
 cd see-camera
 
